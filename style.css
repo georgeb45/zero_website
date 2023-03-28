@@ -1,0 +1,51 @@
+h1 {
+    color:chartreuse;
+font-size: 75px;
+background-color: black;
+font-weight: 100;
+font-style: italic;
+font-family: monospace;
+display:flex ;
+justify-content: center;
+}
+
+h2{color: white;
+background-color:black;
+display:flex;
+font-family: monospace;
+justify-content: center;}
+
+h3{color:white;
+background-color:orange;
+display:flex;
+justify-content: center;}
+
+p{display:flex;
+justify-content: center;
+text-align: center;
+color: azure;
+}
+
+img{display:flex;
+justify-content: center;}
+.column {
+    float: flex;
+    width: 32.33%;
+    padding: 5px;}
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;}
+
+#navbar a{color: crimson;
+}
+p{font-size: 30px;}
+
+
+body{background-image: url(wp3008010.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+body{}
